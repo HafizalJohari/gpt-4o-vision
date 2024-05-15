@@ -1,0 +1,9 @@
+numpy
+torch
+opencv-python
+Pillow
+clip-by-openai
+openai
+python-dotenv
+jupyter
+git+https://github.com/openai/CLIP.git
